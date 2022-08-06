@@ -1,16 +1,22 @@
-### Hi there 👋
+How do you do？Let me introduce myself first. I'm GitHub user——xigongjiexian. You can also call me "Zhou Zhou"
 
-<!--
-**xigongjiexian/xigongjiexian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am now working on security, such as penetration testing, security services..... Of course, I work while studying, and this project will be a great journey in my life
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I look forward to the sunrise and sunset every day and want to share with you. Of course, I will soon have a cat of my own
+
+
+
+- 🤔 I'm not looking for help, I'm just looking for one or more friends who can share life:
+
+
+
+- 📫 How to contact me:
+
+Google email—— goolepayload@gmail.com
+
+
+- ⚡ Interesting experience:
+
+From July 25 to August 8, 2022, he participated in the national HVV action blue team
